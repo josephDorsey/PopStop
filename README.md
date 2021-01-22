@@ -1,2 +1,2 @@
-# omnifoodProject
-following along with a HTML/CSS course. Need practice on saving my gits.
+# PopStop
+following along with a HTML/CSS course using this chance to practice designing a friend's cake pop business website.
